@@ -1,2 +1,2 @@
-# hydro-met-harmonization
-harmonization of meteorological and hydrological data 
+# This project has moved to:
+## https://github.com/lter/Clim-HydroDB-2.0
